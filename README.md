@@ -7,7 +7,7 @@ You are encouraged to use the [MDN website](https://developer.mozilla.org/en-US/
 Use Google effectively! For example, let's say you want to learn more about the `reduce` array method. Here are some Google searches you could try:
 ```
   mdn array reduce
-```
+``` k
 ```
   array.prototype.reduce
 ```
